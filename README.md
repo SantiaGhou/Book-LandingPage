@@ -1,7 +1,5 @@
 Book Landing Page
 
- 
-
 A Book Landing Page é uma página de destino moderna e responsiva projetada para promover um livro. O objetivo é fornecer uma apresentação envolvente e persuasiva, destacando os principais benefícios da obra e incentivando os visitantes a adquirirem o livro.
 
 📌 Recursos
@@ -24,17 +22,12 @@ HTML5
 
 CSS3
 
-JavaScript
-
-Bootstrap (se aplicável)
-
 📂 Estrutura do Projeto
 
 Book-LandingPage/
-│-- index.html        # Página principal
-│-- styles/           # Estilos da página
-│-- imgs/             # Imagens do projeto
-│-- assets/           # Outros recursos
+│-- index.html       # Página principal
+│-- styles/          # Estilos da página
+│-- assets/            # Imagens do projeto
 
 🛠️ Como Usar
 
